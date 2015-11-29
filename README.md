@@ -8,7 +8,7 @@
 
 ## 安装
 
-  	sudo sh pptpd_x64.sh
+  	sudo sh pptpd_x64.sh [subnet]
   
   
 ## 添加用户
